@@ -7,3 +7,4 @@ public/
 
 # User specific files
 .env
+.foo
