@@ -1,13 +1,13 @@
 ---
+title: jolanta
+date: '2016-04-20T00:00:00Z'
+subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 draft: false
+featured: true
 authors:
   - admin
 lastmod: '2019-04-17T00:00:00Z'
-title: XXXXXX
-date: '2016-04-20T00:00:00Z'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-featured: true
 tags:
   - Academic
 categories:
