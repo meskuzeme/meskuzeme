@@ -4,3 +4,7 @@
 # Hugo
 resources/
 public/
+
+# User specific files
+.env
+.foo

@@ -1,5 +1,21 @@
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
+# Stating up
+
+Install Hugo:
+- Download hugo `https://github.com/gohugoio/hugo/releases/download/v0.67.1/hugo_extended_0.67.1_Linux-64bit.tar.gz`
+- Put hugo to the PATH, e.g. `PATH="/opt/hugo-extended-0.67.1:$PATH"`
+
+```
+git submodule update --init --recursive
+```
+
+To start hugo server:
+```
+./view.sh
+```
+Open [link](localhost:1313).
+
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
 
 
