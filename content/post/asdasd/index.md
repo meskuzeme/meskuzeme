@@ -1,7 +1,7 @@
 ---
 title: jolanta
 date: '2016-04-20T00:00:00Z'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+subtitle: ':)'
 summary: Create a beautifully simple website in under 10 minutes.
 draft: false
 featured: true
