@@ -1,5 +1,5 @@
 ---
-title: jolanta
+title: jolanta a
 date: '2016-04-20T00:00:00Z'
 subtitle: ':)'
 summary: Create a beautifully simple website in under 10 minutes.
