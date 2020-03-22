@@ -6,11 +6,11 @@ summary: >-
   Labai dažnai girdžiu iš praeivių:
 
 
-  \- Kokius nuostabius šunis turite… mer irgi norėtume, bet gyvename bute, toks
-  šuo gi kankinsis bute…
+  "- Kokius nuostabius šunis turite… mer irgi norėtume, bet gyvename bute, toks
+  šuo gi kankinsis bute…"
 
 
-  Tada dažniausiai tenka gyliai įkvėpti..
+  Tada dažniausiai tenka giliai įkvėpti..
 
 
   Labai norėčiau ( nors greičiausiai toks noras yra visiškai utopinis), kad
@@ -35,7 +35,7 @@ image:
   preview_only: false
   filename: img_9572.jpg
 ---
-Jūsų nusiteikimas yra svarbiausias
+**Jūsų nusiteikimas yra svarbiausias**
 
 Tokia tiesa. Jeigu pats žmogus yra priešiškai nusiteikęs idėjai laikyti šunį bute (ypač didelį). O Jus save laikote asmeniu, kuris visada yra teisus.. tai tada geriau neturėti jokio šuns.
 
@@ -49,7 +49,7 @@ P.S. Mūsų šunis anksčiau gyvenę nuosavame name dešimtis kartu lakstė iš 
 
 
 
-Laikas
+**Laikas**
 
 Atrodo, suprantamas dalykas, bet ne visiems. Jūsų šuo reikalauja Jūsų buvimo su juo.
 
@@ -57,36 +57,36 @@ Tai nereiškia, kad reikia mesti darbą – dauguma šunų (nekalbu apie šuniuk
 
 
 
-Pasivaikščiojimai
+**Pasivaikščiojima**i
 
 Tai liečia tiek pat, kiek šunis gyvenančius teritorijoje prie namų. Kiekvienam šuniui, nesvarbu kur jis gyvena, yra privalomi kasdieniai pasivaikščiojimai. Jeigu užtikrinsime šuniui pakankamos fizinės ir psichologinės iškrovos, tai grįžęs namo jis tiesiog ramiai atsiguls savo vietoje miegoti.
 
 
 
-Rami vieta poilsiui
+**Rami vieta poilsiui**
 
 Kiekvienam šuniui reikia savo kampo – aišku zenenhundui jis yra didesnis, nei vokiečių nykštukiniam špicui. Bet tai nekeičia situacijos, kad jeigu gyvenate vieno kambario bute tikrai atsiras kažkoks kampas šuniui. Aišku, jeigu Jus to norėsite, bet čia jau grįžome prie pirmo punkto.
 
 
 
-Miesto elgėsio taisyklės
+**Miesto elgėsio taisyklės**
 
 Šitų reikėtų laikytis ne tik šuniui, bet ir šeimininkui. Ne reaguoti lojimų į kokius nors garsus laiptinėje, laikytis saugaus eismo taisyklių gatvėse, savo šuns ekskrementų surinkimas..čia tik kai kurie daykai, kurių turėsite išmokti Jus ir Jūsų šuo. Aišku, džiugina tas, jog šunis (užauginti nuo mažens bute) puikiai prisitaiko prie gyvenimo mieste. Viskas priklauso nuo Jūsų noro.
 
 
 
-Atitinkama temperatūra bute
+**Atitinkama temperatūra bute**
 
 Yra žmonių, kurie šildymo sezono metu mėgsta atsukti šildymą iki maksimumo ir bute turėti +25*C Šuo tokioje temperatūroje (ypač ilgaplaukis) kankinsis… bet ir nežinau ar tokios temperatūros yra sveikos žmogui? Girdėjau, jog žemesne temperatūra (ypač miegant) prailgina išgyvenamumą. Taigi šitas reikalas paprastai pataisomas radiatorių šildymo sumažinimu ir dažnesnių patalpų vėdinimu.
 
 
 
-Daug meilės
+**Daug meilės**
 
 Be šito negali būti kalbos. Nes be meilės šunims nepajėgsite pakeisti savo gyvenimo, eit į kompromisus ir užtikrinti savo augintiniui laimingo gyvenimo. Jūsų šuo nereikalauja didelės erdvės miegui.. o bute(ir nuosavame name) turi paprastai miegoti. Tai koks skirtumas ar ta buda 40mkv ar 230mkv? Jokios.
 
-
-
 Apibendrinant. Nuo vaikystės mūsų vieno kambario bute gyveno didelių veislių šunis (senbernarė, vidurio azijos aviganiai) ir visi buvo laimingi. Su savo zenenhundais anksčiau gyvenome dideliame nuosavame name su aptverta teritorija, dabar gyvename bute. Ir nieko nepasikeitė. Kol mūsų nėra, jie tiesiog miega savo vietose. Aišku, iš mūsų pusės – tai reikalauja tam tikrų prisiderinimų, bet dėl to šunims neįvyksta jokia skriauda. Ir nesvarbu jiems ar 20mkv ar 200mkv, vistiek visa mano gauja sugula šalia manęs, nes jiems svarbiausia būti su žmogumi.
+
+
 
 Žinoma, galbūt ne kiekviena veislė taip pat puikiai prisitaiko prie gyvenimo bute, bet manau dauguma tikrai nepatiria net mažiausiu problemų. Tai priklauso nuo mūsų pačių.
