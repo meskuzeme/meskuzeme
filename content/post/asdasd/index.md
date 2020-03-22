@@ -33,7 +33,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
   preview_only: false
-  filename: _c5a9925.jpg
+  filename: img_9572.jpg
 ---
 Jūsų nusiteikimas yra svarbiausias
 
