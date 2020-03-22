@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Meškų žemė
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Berno zenenhundų veislynas
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Vilnius, Lietuva
   url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +25,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+
+- icon: facebook
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.facebook.com/meskuzeme/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +45,16 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mūsų veislyno tikslas – sveiki, lengvai judantys, ilgaamžiai, gero temperamento, stabilios psichikos bei tinkamai socializuoti Berno zenenhundai.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Šia veisle pradėjome domėtis 2009m. Mane pakerėjo jų begalinis draugiškumas ir pozityvumas, aktyvus bet ir tuo pačiu subalansuotas charakteris. Toks, rodos, idealus prisitaikymas prie žmogaus. Pradėjus domėtis šia veisle ir šuniuko įsigijimu suradau, jog literatūroje skelbiamas jų gyvenimo vidurkis yra 6-8 metai. Tada supratau, jog šioje veislėje yra ką tobulinti. Mano tikslas buvo ilgaamžės kraujo linijos. 
+
+Išnagrinėjau daug kraujo linijų, ieškojau informacijos, lankiausi Berno zenenhundų veislynose Lietuvoje ir užsienyje. Po 2 metų paieškų, atradau Berncor veislyną, iš kur ir parsivežiau savo pirmąją kalytę. Jos tėvas buvo importuotas iš Kanados, Michaudville veislyno. Dauguma jų veisiamų šunų išgyvena 10 ir daugiau metų. Amber protėvių tris kartos yra sveikos nuo klubo sąnario displazijų. Amber mamos protėviai kilę iš žymių Europos veislynų, kurie daug metų yra paskyrę Berno zenenhundų veisimui.
+
+2011 metų rudenį įvyko ilgai lauktas stebuklas ir mano gyvenime atsirado Berno zenenhundas. Amber nuo pat pirmųjų dienų pasižymėjo aktyvumu, dideliu noru mokytis naujų komandų ir begaliniu pozityvumu. Pradėję eiti į parodas sulaukėmė puikių įvertinimų. Gana lengvai susirinkome Lietuvos, Baltarusijos Jaunimo čempiono titulus, o po metų užtvirtinom čempionų titulus užsidarę jau atviroje klasėje. Taip pat ji yra sėkmingai išlaikiusi naktinį psichikos testą. Šiai dienai turi keturius čempiono titulus, yra kandidatė į interčempionus ir Lietuvos veteranų čempionė. 
+
+Vadoms, tėvų porą stengiames suderinti taip, kad nesikartotų trūkumai, o vienas kitą galėtų pagerinti. Mūsų vizijoje Berno zenenhundas turi būti anatomiškas subalansuotas, kad galėtų lengvai ir greitai judėti, nes pradinė šios veislės viena iš paskirčių buvo ganyti avis, todėl tai neturi būti lėtas ir masyvus šuo. 2014 metų sausio 6d. sulaukėme pirmos vados iš kurios dvi kalytės buvo išrinktos pasilikti veislyne: Baghira ir Bernardetta. Jų tėvas yra Lambert Tasmanska Elitte. 
+
+Džiaugiamės savo šuniukais, kurie pas naujus šeimininkus iškeliavo ne tik Lietuvoje, bet ir Latvijoje, Estijoje, Vokietijoje, Norvegijoje, Švedijoje, D. Britanijoje, JAV. Naujiems šeimininkams visada padedame šuniuko auginimo klausimais.
+
+Veislyno pavadinimas yra registruotas FCI. Veislynas yra įtrauktas į VMVT subjektų sąrašą.
