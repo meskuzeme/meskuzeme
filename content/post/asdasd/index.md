@@ -30,7 +30,7 @@ categories:
 projects: []
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   preview_only: false
   filename: img_9572.jpg
