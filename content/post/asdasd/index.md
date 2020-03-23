@@ -33,7 +33,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
-  filename: img_9572.jpg
+  filename: featured.jpg
 ---
 Labai dažnai girdžiu iš praeivių:
 
