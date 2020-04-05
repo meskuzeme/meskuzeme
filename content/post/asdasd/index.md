@@ -47,7 +47,6 @@ Tokia tiesa. Jeigu pats žmogus yra priešiškai nusiteikęs idėjai laikyti šu
 Bet jeigu esate pasiruošęs pažvelgti į situaciją iš kitos perspektyvos.. tai galimybė, kad Jums pavyks, beprotiškai išauga.
 Pasakykim sau atvirai: tai nuo mūsų priklauso (99%), ar Jūsų šuo bute bus laimingu. Ar esate pasiruošęs pakeisti savo gyvenimą dėl šuns ir ar nekeisite po to tokio savo sprendimo.
 Nuo Jūsų noro priklauso netgi tai, ar norėsite didelės veislės šuniuką pirmais mėnesiais nešioti laiptais, ar sugebėsite suorganizuoti išėjimus į lauką, jei šuo susirgs. Faktas, kad tokiais atvejais butas pirmame aukšte ar su liftu pagerina situaciją, bet svarbiausias yra noras.
-P.S. Mūsų šunys, anksčiau gyvenę nuosavame name, dešimtis kartų lakstė iš pirmo aukšto į antrą, o tai, manau, sudaro daug daugiau nei kiek kažkuris šuo vaikšto laiptais gyvendamas bute. :)
 
 **Laikas**
 Atrodo, suprantamas dalykas, bet ne visiems. Jūsų šuo reikalauja Jūsų buvimo su juo.
