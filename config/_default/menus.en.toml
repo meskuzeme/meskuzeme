@@ -15,24 +15,24 @@
 
 [[main]]
   name = "Our Dogs"
-  identifier = "our-dogs"
-  url = "our-dogs"
+  identifier = "dogs"
+  url = "dogs"
   weight = 30
 
   [[main]]
   name = "Amber Berncor"
-  parent = "our-dogs"
-  url = "our-dogs/amber/"
+  parent = "dogs"
+  url = "dogs/amber/"
 
   [[main]]
   name = "Bernardette Meškų dvaras"
-  parent = "our-dogs"
-  url = "our-dogs/bernardette/"
+  parent = "dogs"
+  url = "dogs/bernardette/"
 
   [[main]]
   name = "Bagira Meškų dvaras"
-  parent = "our-dogs"
-  url = "our-dogs/baghira/"
+  parent = "dogs"
+  url = "dogs/baghira/"
 
 [[main]]
   name = "Litters"
