@@ -1,0 +1,65 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "About us"
+  url = "about-us"
+  weight = 10
+
+[[main]]
+  name = "News"
+  url = "#posts"
+  weight = 20
+
+[[main]]
+  name = "Our Dogs"
+  identifier = "dogs"
+  url = "dogs"
+  weight = 30
+
+  [[main]]
+  name = "Amber Berncor"
+  parent = "dogs"
+  url = "dogs/amber/"
+
+  [[main]]
+  name = "Bernardette Meškų dvaras"
+  parent = "dogs"
+  url = "dogs/bernardette/"
+
+  [[main]]
+  name = "Bagira Meškų dvaras"
+  parent = "dogs"
+  url = "dogs/baghira/"
+
+[[main]]
+  name = "Litters"
+  url = "litters"
+  weight = 40
+
+  [[main]]
+  name = "B litter"
+  parent = "Litters"
+  url = "litters/b/"
+
+  [[main]]
+  name = "M litter"
+  parent = "Litters"
+  url = "litters/m/"
+
+  [[main]]
+  name = "U litter"
+  parent = "Litters"
+  url = "litters/u/"
+
+  [[main]]
+  name = "D litter"
+  parent = "Litters"
+  url = "litters/d/"
+
+[[main]]
+  name = "Contact us"
+  url = "#contact"
+  weight = 60
