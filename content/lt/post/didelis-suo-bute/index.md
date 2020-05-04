@@ -6,17 +6,17 @@ summary: >-
   Labai dažnai girdžiu iš praeivių:
 
 
-  "- Kokius nuostabius šunis turite… mer irgi norėtume, bet gyvename bute, toks
+  "- Kokius nuostabius šunis turite… mes irgi norėtume, bet gyvename bute, toks
   šuo gi kankinsis bute…"
 
 
   Tada dažniausiai tenka giliai įkvėpti ir pabandyti parodyti kitą požiūrio kampą.
 
 
-  Labai norėčiau ( nors greičiausiai toks noras yra visiškai utopinis), kad
+  Labai norėčiau (nors greičiausiai toks noras yra visiškai utopinis), kad
   žmonės suvoktų, kad dauguma šunų neturi jokių problemų dėl
   gyvenimo bute. Turime tik išpildyti keletą sąlygų (kurias taip pat reikia
-  išpildyti, kai ir gyvename nuosavame name), kad mūsų bendras gyvenimas bute
+  išpildyti net jei kai gyvename nuosavame name), kad mūsų bendras gyvenimas bute
   būtų malonus abiems.
 draft: false
 featured: true
