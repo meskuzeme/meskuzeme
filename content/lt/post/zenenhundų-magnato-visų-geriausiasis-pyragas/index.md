@@ -11,49 +11,32 @@ image:
   focal_point: ""
   preview_only: false
 ---
+
 Jums reikės:
 
-\## Tešlai:
+## Tešlai:
 
- 150 g šaldyto sviesto;
+- 150 g šaldyto sviesto;
+- 300 g miltų;
+- 100 g cukraus;
+- 1 a. š. vanilinio cukraus;
+- 2 v. š. grietinės;
+- 1 kiaušinio trynys;
+- 1 a. š. kepimo miltelių;
+- žiupsnelis druskos.
 
- 300 g miltų;
+## Varškės įdarui:
 
- 100 g cukraus;
+- 500 g  varškės;
+- 250 g maskarponės sūrio;
+- 100 g cukraus;
+- 1 a. š. vanilinio cukraus;
+- 2 v. š. manų kruopų;
+- 3 kiaušinių tryniai;
+- 4 kiaušinių baltymai;
+- šlakelis citrinų sulčių.
 
- 1 a. š. vanilinio cukraus;
-
- 2 v. š. grietinės;
-
- 1 kiaušinio trynys;
-
- 1 a. š. kepimo miltelių;
-
- žiupsnelis druskos.
-
-
-
-\## Varškės įdarui:
-
-500 g  varškės;
-
-250 g maskarponės sūrio;
-
-100 g cukraus;
-
-1 a. š. vanilinio cukraus;
-
-2 v. š. manų kruopų;
-
-3 kiaušinių tryniai;
-
-4 kiaušinių baltymai;
-
-šlakelis citrinų sulčių.
-
-
-
-\## Gamyba
+## Gamyba
 
 Šaldytą sviestą sutarkuojame burokine tarka ir sumaišome su miltais (norint didesnio pyrago trapumo galima dėti 200g kvietinių + 100g ryžių miltų). 
 
