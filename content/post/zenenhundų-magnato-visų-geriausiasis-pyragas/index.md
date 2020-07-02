@@ -1,26 +1,23 @@
 ---
 title: Zenenhundų Magnato visų geriausiasis pyragas
 date: 2020-07-02T13:23:56.269Z
-subtitle: "Paragavę šio pyrago, žmonės dažnai klausia recepto. Todėl nusprendemė
-  juo pasidalinti čia. "
-summary: >-
-  Labai skanus šiltas, bet ir geras atvėsęs. \
-
-  Trapus sviestinis pagrindas, purus ir kreminis varškės įdaras ir traškūs viršutinio sluoksnio trupiniai. Viskas ko reikia.
+subtitle: "*"
+summary: Paragavę šio pyrago, žmonės dažnai klausia recepto. Todėl nusprendemė
+  juo pasidalinti čia.
 draft: false
 featured: false
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 ---
-\## Ingridientai
+Jums reikės:
 
-Tešlai:
+\## Tešlai:
 
- 150 g sviesto;
+ 150 g šaldyto sviesto;
 
- 300 g kvietinių miltų;
+ 300 g miltų;
 
  100 g cukraus;
 
@@ -36,7 +33,7 @@ Tešlai:
 
 
 
-Varškės įdarui:
+\## Varškės įdarui:
 
 500 g  varškės;
 
@@ -72,6 +69,7 @@ Paruoštą pyragą kepame 180 laipsnių orkaitėje apie valandą. Jei per greita
 
 Paįvairinimui likus 10min iki kepimo pabaigos ant viršaus galima uždėti turimas šviežias trintas uogas ar uogienės (prieš tai nusunkus per sietelį). Kitas paįvairinimo variantas: galima šviežias uogas (pvz pjaustytas braškes, avietės) įšdėlioti ant tešlos prieš supilant varškės masę.
 
-Cukraus kiekį galima pamažinti jei norisi mažiau saldumo. 
+Cukraus kiekį galima pamažinti jei norisi mažiau saldumo. Labai skanus šiltas, bet ir geras atvėsęs. \
+Trapus sviestinis pagrindas, purus ir kreminis varškės įdaras ir traškūs viršutinio sluoksnio trupiniai. Viskas ko reikia.
 
 Skanaus :)
