@@ -1,7 +1,7 @@
 ---
 title: Zenenhundų Magnato visų geriausiasis pyragas
 date: 2020-07-02T13:23:56.269Z
-subtitle: "*"
+subtitle: "#zenenhundumagnatas #varskespyragas"
 summary: Paragavę šio pyrago, žmonės dažnai klausia recepto. Todėl nusprendemė
   juo pasidalinti čia.
 draft: false
