@@ -56,3 +56,6 @@ Cukraus kiekį galima pamažinti jei norisi mažiau saldumo. Labai skanus šilta
 Trapus sviestinis pagrindas, purus ir kreminis varškės įdaras ir traškūs viršutinio sluoksnio trupiniai. Viskas ko reikia.
 
 Skanaus :)
+
+
+Inspiracija "Sigita Cooks"
